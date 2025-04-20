@@ -3,12 +3,10 @@
 nerf_synthetic/
 nerf_synthetic_lego/
 
-# Generated output
-generated_views_cpu/
-*.gif
-*.pth
 
 # Python / Jupyter specific
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+2305.18900v2.pdf
