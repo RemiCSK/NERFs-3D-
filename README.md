@@ -29,6 +29,14 @@ This repository contains code based on the original NeRF paper ([Mildenhall et a
     ```
     *(Note: Ensure you have compatible versions of PyTorch/TensorFlow depending on the implementation details, potentially with CUDA support if using a GPU).*
 
+4.  **Download the Dataset:**
+    The original download link for the synthetic dataset (like the Lego bulldozer) is often broken. You need to download it manually:
+    1. Go to the NeRF project page: [https://www.matthewtancik.com/nerf](https://www.matthewtancik.com/nerf)
+    2. Find the 'Data' section and click the link for 'NeRF Synthetic Data'. This will likely lead to a Google Drive folder.
+    3. Download the `nerf_synthetic.zip` file.
+    4. Extract the zip file.
+    5. Place the extracted `lego` folder inside a `nerf_synthetic_lego` directory within your project. The final path should look like: `./nerf_synthetic_lego/lego/`
+
 ## Usage
 
 *   **Understanding NeRFs:** Open and run the `projet_nerf_notebook.ipynb` notebook for a theoretical explanation and code walkthrough.
