@@ -1,7 +1,7 @@
 # Data files and directories
 *.zip
 nerf_synthetic/
-nerf_synthetic_lego/
+#nerf_synthetic_lego/
 
 
 # Python / Jupyter specific
