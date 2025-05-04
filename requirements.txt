@@ -1,0 +1,8 @@
+torch
+numpy
+matplotlib
+tqdm
+imageio
+ipython
+opencv-python-headless
+ipywidgets

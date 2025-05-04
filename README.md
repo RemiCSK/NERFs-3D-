@@ -18,12 +18,13 @@ This repository contains code based on the original NeRF paper ([Mildenhall et a
     git clone <repository-url>
     cd <repository-directory>
     ```
-2.  **Create a virtual environment (recommended):**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate # On Windows use `venv\Scripts\activate`
+
     ```
 3.  **Install dependencies:**
+    ```bash
+    pip install --upgrade pip
+    ```
+
     ```bash
     pip install -r requirements.txt
     ```
