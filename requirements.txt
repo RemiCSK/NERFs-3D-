@@ -6,3 +6,4 @@ imageio
 ipython
 opencv-python-headless
 ipywidgets
+scikit-image
