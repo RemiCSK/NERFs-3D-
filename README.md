@@ -11,7 +11,7 @@ This repository contains code based on the original NeRF paper ([Mildenhall et a
 *   Scripts/notebooks for training NeRF models and generating novel views (e.g., `generate_views_cpu.ipynb`, `test_nerfs.ipynb`).
 *   Example results, including generated views and GIFs.
 
-The essentially consists in modifications of https://github.com/yenchenlin/nerf-pytorch/tree/master, https://github.com/bmild/nerf and chatgpt given code. I don't claim owning the code present in the repository.
+The python code essentially consists in modifications of https://github.com/yenchenlin/nerf-pytorch/tree/master, https://github.com/bmild/nerf and chatgpt given code. I don't claim owning the python code present in the repository.
 ## Setup
 
 I strongly advise to use the onyxia sspcloud plateform (free for INSEE, ENSAE, Polytechnique and other institutions)
