@@ -8,7 +8,6 @@ This repository contains code based on the original NeRF paper ([Mildenhall et a
 
 *   A detailed explanation of NeRF concepts in `projet_nerf_notebook.ipynb`.
 *   Implementation of the NeRF model, training pipeline, and rendering process.
-*   Scripts/notebooks for training NeRF models and generating novel views (e.g., `generate_views_cpu.ipynb`, `test_nerfs.ipynb`).
 *   Example results, including generated views and GIFs.
 
 The python code essentially consists in modifications of https://github.com/yenchenlin/nerf-pytorch/tree/master, https://github.com/bmild/nerf and chatgpt given code. I don't claim owning the python code present in the repository.
